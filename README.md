@@ -8,6 +8,7 @@ Areas of Interest
 - Web development
 - Full Stack engineering
 - Test engineering
+- Forecasting Economic Indicators
 
 Get in Touch
 - email: appadook@union.edu
