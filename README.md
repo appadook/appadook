@@ -17,7 +17,7 @@ My interests lie in **software engineering, data engineering, data science, and 
 ---
 
 ## 🤝 Let’s Connect
-- 📧 Email: [appadook@union.edu](mailto:appadook@union.edu)  
+- 📧 Email: [appadook@union.edu](mailto:appadook.7@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/kurtik-appadoo-863019244/)  
 - 🌐 [Portfolio Website](https://portfolio-website-rose-seven.vercel.app/)  
 
