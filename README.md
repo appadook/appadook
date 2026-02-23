@@ -15,7 +15,7 @@ My interests lie in **software engineering, data engineering, data science, and 
 
 ###
 
-<p align="left">I'm originally from Mauritius 🇲🇺 but moved to the United States 🇺🇸 for my studies and recently completed a B.S in Computer Science & Economics @ Union College 🎓.<br><br>- I'm currently working as a Data Engineer in a role that gives the flexibility and rotational ability to also dive into Software Engineering, Data Science along with AI/ML.<br><br>- 📚 I'm currently extending from my knowledge of Machine Learning and Data Intelligence for model development and predictive engines. My most recent work encapsulated just that in the realm of Formula 1 racing for fun and Cryptocurrency Arbitrage academically.<br><br>- ⚡ In my free time I love working out wether it is lifting, running or simply playing sports. As an former Tennis student-athlete I really strive for fitness in a holistic fashion and also for the sport although not exclusively. I also enjoy applying my programming skills to build predicitive models for sports such as Soccer and Formula 1 but also financial backtesting and simulation notably in the cryptocurrency world.</p>
+<p align="left">I'm originally from Mauritius 🇲🇺 but moved to the United States 🇺🇸 for my studies and recently completed a B.S in Computer Science & Economics @ Union College 🎓.<br><br>- I'm currently working as a Software Engineer in NYC, looking to continuously grow as an engineer and into this ever growing space.<br><br>- ⚡ In my free time I love working out wether it is lifting, running or simply playing sports. As an former Tennis student-athlete I really strive for fitness in a holistic fashion and also for the sport although not exclusively. I also enjoy applying my programming skills to build predicitive models for sports such as Soccer and Formula 1 but also financial backtesting and simulation notably in the cryptocurrency world.</p>
 
 ###
 
@@ -71,7 +71,7 @@ My interests lie in **software engineering, data engineering, data science, and 
 ## 🤝 Let’s Connect
 - 📧 Email: [appadook.7@gmail.com](mailto:appadook.7@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/kurtik-appadoo-863019244/)  
-- 🌐 [Portfolio Website](https://portfolio-website-rose-seven.vercel.app/)  
+- 🌐 [Portfolio Website](https://appadook-portfolio-next.vercel.app/)  
 
 ---
 
